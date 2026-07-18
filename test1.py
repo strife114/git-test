@@ -560,32 +560,3 @@ for rank, title in enumerate(ranking, 1):
 
 print()
 
-
-# ============================================================
-#  最后一课：下一步学什么？
-# ============================================================
-
-print("=" * 50)
-print("== 恭喜你完成了 Python 入门教程！ ==")
-print("=" * 50)
-print()
-print("接下来可以学习:")
-print("  1. 类与面向对象编程 (class)")
-print("  2. 模块与包 (import, pip)")
-print("  3. 常用的标准库 (os, datetime, random, json)")
-print("  4. 第三方库 (requests 网络请求, pandas 数据分析)")
-print("  5. 做一个小项目来巩固知识！")
-print()
-print("推荐学习资源:")
-print("  - 官方文档: https://docs.python.org/zh-cn/3/")
-print("  - 菜鸟教程: https://www.runoob.com/python3/")
-print()
-print("记住: 编程是练出来的，不是看出来的。多写代码，多动手！")
-
-# ============================================================
-#  附录：Python 内置常量与快捷查看
-# ============================================================
-
-# 查看 Python 版本
-import sys
-print(f"当前 Python 版本: {sys.version}")
