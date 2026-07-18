@@ -49,5 +49,9 @@ venv.bak/
 .DS_Store
 Thumbs.db
 .agents/
+
 .codex/
 test_output.txt/
+
+.codex/
+
