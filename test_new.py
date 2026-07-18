@@ -18,4 +18,4 @@ def test_string():
 if __name__ == "__main__":
     test_basic()
     test_string()
-    print("All tests passed!")
+    print("yyyy!")
